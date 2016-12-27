@@ -3,18 +3,6 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <Button
-        android:id="@+id/start_obtain"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/start_obtain"/>
-
-    <Button
-        android:id="@+id/stop_obtain"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/stop_obtain"/>
-
     <TextView
         android:id="@+id/brand"
         android:layout_width="match_parent"
@@ -26,5 +14,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="8dp"/>
+
+    <Button
+        android:id="@+id/refresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/refresh"/>
 
 </LinearLayout>

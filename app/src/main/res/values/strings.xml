@@ -3,7 +3,6 @@
     <string name="app_name">ObtainSimCellId</string>
 
     <string name="unknown_cell_id">Unknown</string>
-    <string name="start_obtain">Start Obtain</string>
-    <string name="stop_obtain">Stop Obtain</string>
+    <string name="refresh">Refresh</string>
 
 </resources>
